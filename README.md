@@ -1,0 +1,3 @@
+# operating-system-project-phase-1
+This is a operating system based on a hypothetical processor Z502.
+To run test, just run ./os502 test0 ...
